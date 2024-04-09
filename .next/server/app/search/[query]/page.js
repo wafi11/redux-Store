@@ -1,0 +1,13 @@
+const CHUNK_PUBLIC_PATH = "server/app/search/[query]/page.js";
+const runtime = require("../../../chunks/[turbopack]_runtime.js");
+runtime.loadChunk("server/chunks/node_modules_next_483df0._.js");
+runtime.loadChunk("server/chunks/node_modules_react-icons_fa_index_mjs_a1beb0._.js");
+runtime.loadChunk("server/chunks/node_modules_react-icons_lib_71ba31._.js");
+runtime.loadChunk("server/chunks/node_modules_next-auth_5ca276._.js");
+runtime.loadChunk("server/chunks/node_modules_openid-client_1f67dc._.js");
+runtime.loadChunk("server/chunks/node_modules_jose_dist_node_cjs_f8a533._.js");
+runtime.loadChunk("server/chunks/node_modules_nodemailer_933543._.js");
+runtime.loadChunk("server/chunks/node_modules_44b551._.js");
+runtime.loadChunk("server/chunks/[root of the server]__a17f18._.js");
+runtime.getOrInstantiateRuntimeModule("[project]/.next-internal/server/app/search/[query]/page/actions.js (ecmascript)", CHUNK_PUBLIC_PATH);
+module.exports = runtime.getOrInstantiateRuntimeModule("[project]/node_modules/next/dist/esm/build/templates/app-page.js/(COMPONENT_0)/[project]/src/app/layout.tsx [app-rsc] (ecmascript, Next.js server component)/(COMPONENT_1)/[project]/node_modules/next/dist/client/components/not-found-error.js [app-rsc] (ecmascript, Next.js server component)/(COMPONENT_2)/[project]/src/app/search/[query]/page.tsx [app-rsc] (ecmascript, Next.js server component) (ecmascript) {facade}", CHUNK_PUBLIC_PATH).exports;

@@ -1,0 +1,41 @@
+{
+  "pages": {
+    "/search/[query]/page": [
+      "static/chunks/[root of the server]__9a168d._.css",
+      "static/chunks/src_23170a._.js",
+      "static/chunks/node_modules_next_dist_compiled_react_0bfca7._.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_cjs_react-dom_development_c9a189.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_index_99aff8.js",
+      "static/chunks/node_modules_next_dist_compiled_micromatch_index_cf75e5.js",
+      "static/chunks/node_modules_next_dist_compiled_992ff3._.js",
+      "static/chunks/node_modules_next_dist_shared_lib_a76ce3._.js",
+      "static/chunks/node_modules_next_dist_client_223ee0._.js",
+      "static/chunks/node_modules_next_dist_1702ce._.js",
+      "static/chunks/node_modules_next_fd7967._.js",
+      "static/chunks/node_modules_react-icons_bi_index_mjs_cba0e8._.js",
+      "static/chunks/node_modules_react-icons_fi_index_mjs_9cbf4b._.js",
+      "static/chunks/node_modules_react-icons_fa6_index_mjs_00e856._.js",
+      "static/chunks/node_modules_react-icons_si_index_mjs_4ff16b._.js",
+      "static/chunks/node_modules_react-icons_md_index_mjs_78df2b._.js",
+      "static/chunks/node_modules_react-icons_lib_4b5291._.js",
+      "static/chunks/node_modules_tailwind-merge_dist_bundle-mjs_mjs_b854ac._.js",
+      "static/chunks/node_modules_axios_lib_bf6925._.js",
+      "static/chunks/node_modules_6c6efd._.js",
+      "static/chunks/[turbopack]_dev_client_hmr-client_ts_e4faca._.js",
+      "static/chunks/src_app_layout_tsx_eb25a9._.js",
+      "static/chunks/node_modules_react-icons_ai_index_mjs_b8cfc3._.js",
+      "static/chunks/src_5b24af._.js",
+      "static/chunks/src_app_search_[query]_page_tsx_703f38._.js",
+      "static/chunks/node_modules_next_dist_compiled_react_a1d82d._.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_cjs_react-dom_development_c9a189.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_87a050._.js",
+      "static/chunks/node_modules_next_dist_compiled_e13b54._.js",
+      "static/chunks/node_modules_next_dist_client_93f294._.js",
+      "static/chunks/node_modules_next_dist_5313b6._.js",
+      "static/chunks/node_modules_@swc_helpers_f2490a._.js",
+      "static/chunks/[turbopack]_dev_client_hmr-client_ts_e38d9a._.js",
+      "static/chunks/node_modules_next_dist_esm_build_templates_app-page_a1ee75.js",
+      "static/chunks/node_modules_next_dist_esm_build_templates_app-page_3ac86c.js"
+    ]
+  }
+}
